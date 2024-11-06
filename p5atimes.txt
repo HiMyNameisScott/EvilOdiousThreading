@@ -1,0 +1,92 @@
+##############################################
+Function 1
+
+-------------------
+Timed Test (1 thread)
+
+real	1m25.709s
+user	1m25.705s
+sys	0m0.001s
+
+-------------------
+Timed Test (2 thread)
+
+real	1m38.668s
+user	2m38.159s
+sys	0m38.323s
+
+-------------------
+Timed Test (3 thread)
+
+real	1m50.962s
+user	3m21.677s
+sys	1m49.712s
+
+-------------------
+Timed Test (4 thread)
+
+real	2m6.863s
+user	4m18.538s
+sys	3m22.524s
+
+-------------------
+Timed Test (5 thread)
+
+real	2m19.161s
+user	5m2.862s
+sys	5m13.870s
+
+-------------------
+Timed Test (6 thread)
+
+real	2m31.388s
+user	5m45.941s
+sys	7m25.875s
+
+##############################################
+Function 2
+
+
+-------------------
+Timed Test (1 thread)
+
+real	1m24.810s
+user	1m24.805s
+sys	0m0.002s
+
+-------------------
+Timed Test (2 thread)
+
+real	0m52.979s
+user	1m39.088s
+sys	0m6.471s
+
+-------------------
+Timed Test (3 thread)
+
+real	1m11.855s
+user	2m19.246s
+sys	1m2.273s
+
+-------------------
+Timed Test (4 thread)
+
+real	1m22.595s
+user	2m41.362s
+sys	2m17.884s
+
+-------------------
+Timed Test (5 thread)
+
+real	1m35.641s
+user	3m11.945s
+sys	3m50.808s
+
+-------------------
+Timed Test (6 thread)
+
+real	1m46.835s
+user	3m48.163s
+sys	5m26.018s
+
+
